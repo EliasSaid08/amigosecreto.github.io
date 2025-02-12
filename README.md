@@ -20,4 +20,4 @@
 ## Cómo usar 🛠️
 
 1. **Puedes ver el repositorio**:
-  https://github.com/EliasSaid08/El-amigo-Secreto-Alura.git
+ https://github.com/EliasSaid08/amigosecreto.github.io.git
